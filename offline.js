@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581347422,
+	"version": 1581378947,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -138,6 +138,8 @@
 		"media/applause2.ogg",
 		"media/btnconfirm.ogg",
 		"media/win1.ogg",
+		"media/btnconfirm2.ogg",
+		"media/scream.ogg",
 		"media/memory.ogg",
 		"media/login.ogg",
 		"media/rsp.ogg",
