@@ -31279,6 +31279,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.For,
 	cr.plugins_.TiledBg.prototype.exps.Width,
 	cr.system_object.prototype.exps["int"],
+	cr.plugins_.Browser.prototype.cnds.IsFullscreen,
 	cr.system_object.prototype.cnds.Every,
 	cr.plugins_.Sprite.prototype.cnds.CompareFrame,
 	cr.behaviors.Timer.prototype.acts.StopTimer,
@@ -31308,5 +31309,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.UID,
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
 	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion,
+	cr.plugins_.Touch.prototype.cnds.OnHoldGestureObject,
 	cr.plugins_.Sprite.prototype.acts.SetEffectParam
 ];};
