@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581560907,
+	"version": 1581565966,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -127,6 +127,7 @@
 		"images/sysfont.png",
 		"images/yellowfont.png",
 		"images/love.png",
+		"images/guess-sheet0.png",
 		"images/particles.png",
 		"media/v1.ogg",
 		"media/v2.ogg",
