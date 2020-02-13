@@ -31599,6 +31599,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.TiledBg.prototype.acts.SetSize,
 	cr.plugins_.TiledBg.prototype.exps.Width,
 	cr.system_object.prototype.exps["int"],
+	cr.system_object.prototype.exps.layoutname,
 	cr.plugins_.Browser.prototype.cnds.IsFullscreen,
 	cr.plugins_.Touch.prototype.cnds.OnNthTouchStart,
 	cr.system_object.prototype.cnds.Every,
