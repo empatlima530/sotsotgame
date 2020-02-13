@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1581583718,
+	"version": 1581585916,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -107,8 +107,6 @@
 		"images/hit-sheet0.png",
 		"images/emoticon-sheet0.png",
 		"images/skilleffect-sheet0.png",
-		"images/skilleffect-sheet1.png",
-		"images/skilleffect-sheet2.png",
 		"images/spread3.png",
 		"images/rsppoint-sheet0.png",
 		"images/rsppoint-sheet1.png",
@@ -121,6 +119,7 @@
 		"images/yellowfont.png",
 		"images/love.png",
 		"images/guess-sheet0.png",
+		"images/sprite7-sheet0.png",
 		"images/particles.png",
 		"media/v1.ogg",
 		"media/v2.ogg",

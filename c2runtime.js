@@ -31623,5 +31623,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.UID,
 	cr.plugins_.Touch.prototype.cnds.OnHoldGestureObject,
 	cr.plugins_.Sprite.prototype.acts.SetEffectParam,
+	cr.plugins_.Text.prototype.acts.SetVisible,
 	cr.behaviors.Sin.prototype.acts.SetActive
 ];};
