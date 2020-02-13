@@ -1,1 +1,1 @@
-https://empatlima530.github.io
+https://empatlima530.github.io/sotsotgame
